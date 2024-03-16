@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "edukacja.html",
+    "href": "edukacja.html",
+    "title": "Edukacja",
     "section": "",
-    "text": "About this site"
+    "text": "LO IV Warszawa\nUW WPIA"
+  },
+  {
+    "objectID": "doswiadczenie.html",
+    "href": "doswiadczenie.html",
+    "title": "Doswiadczenie",
+    "section": "",
+    "text": "Wieloletnia praca dla Sądów jako biegły sądowy"
   },
   {
     "objectID": "index.html",
