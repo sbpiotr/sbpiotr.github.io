@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "pstep"
+  title: "Piotr Stępień - Reczoznawca Majątkowy"
   navbar:
     left:
       - href: index.qmd
@@ -15,6 +15,6 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
-
+    page-layout: full
 
 

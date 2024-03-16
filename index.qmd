@@ -1,7 +1,23 @@
 ---
-title: "pstep"
+title: "Piotr Stępień - Reczoznawca Majątkowy"
+image: mainphoto.jpeg
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 20em
+links:
+    - text: Email
+      href: mailto:ps@syndyko.pl
 ---
 
-This is a Quarto website.
+## Edukacja
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+- LO IV Warszawa
+- UW WPIA
+
+## Doświadczenie
+
+- Wieloletnia praca dla Sądów jako biegły sądowy
+
+
