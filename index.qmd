@@ -22,14 +22,14 @@ Nazywam się Piotr Stępień i jestem rzeczoznawcą majątkowym z wieloletnim do
 **Moje usługi obejmują:**
 
 * Wycenę nieruchomości dla celów:
-    * Kredytów hipotecznych <i class="fa fa-home"></i>
-    * Spadków <i class="fa fa-last-will"></i>
-    * Podziału majątku <i class="fa fa-balance-scale"></i>
-    * Transakcji kupna-sprzedaży <i class="fa fa-handshake"></i>
-    * Zabezpieczenia wierzytelności <i class="fa fa-lock"></i>
-    * Odszkodowania za inwestycje liniowe <i class="fa fa-money-bill-alt "></i>
-* Operaty szacunkowe <i class="fa fa-calculator"></i>
-* Opinie i ekspertyzy <i class="fa fa-lightbulb"></i>
+    * Kredytów hipotecznych {{< fa fa-home >}} 
+    * Spadków {{< fa fa-last-will >}}
+    * Podziału majątku {{< fa fa-balance-scale >}}
+    * Transakcji kupna-sprzedaży {{< fa fa-handshake >}}
+    * Zabezpieczenia wierzytelności {{< fa fa-lock >}}
+    * Odszkodowania za inwestycje liniowe {{< fa fa-money-bill-alt >}}
+* Operaty szacunkowe {{< fa fa-calculator >}}
+* Opinie i ekspertyzy {{< fa fa-lightbulb >}}
 
 **Gwarantuję:**
 
