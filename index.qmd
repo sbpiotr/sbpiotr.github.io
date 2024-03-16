@@ -1,5 +1,5 @@
 ---
-title: "Piotr Stępień - Reczoznawca Majątkowy"
+title: "Piotr Stępień \n Rzeczoznawca Majątkowy"
 image: mainphoto.jpeg
 toc: false
 about: 
