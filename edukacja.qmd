@@ -2,5 +2,8 @@
 title: "Edukacja"
 ---
 
-- LO IV Warszawa
-- UW WPIA
+- Fudan University Prawo
+- Uniwersytet Warszawski Prawo doktorat
+- Uniwersytet Warszawski Prawo magisterskie
+- Uniwersytet Warszawski Zarzadzanie magisterskie
+- Uniwersytet Kardynała Stefana Wyszyńskiego w Warszawie Ekonomia licencjat

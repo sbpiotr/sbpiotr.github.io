@@ -9,7 +9,6 @@ website:
       - href: index.qmd
         text: Home
       - edukacja.qmd
-      - doswiadczenie.qmd
 
 format:
   html:
