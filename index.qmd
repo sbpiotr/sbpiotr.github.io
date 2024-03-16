@@ -22,14 +22,14 @@ Nazywam się Piotr Stępień i jestem rzeczoznawcą majątkowym z wieloletnim do
 **Moje usługi obejmują:**
 
 * Wycenę nieruchomości dla celów:
-    * Kredytów hipotecznych
-    * Spadków
-    * Podziału majątku
-    * Transakcji kupna-sprzedaży
-    * Zabezpieczenia wierzytelności
-    * Odszkodowania za inwestycje liniowe
-* Operaty szacunkowe
-* Opinie i ekspertyzy
+    * Kredytów hipotecznych <i class="fa fa-home"></i>
+    * Spadków <i class="fa fa-last-will"></i>
+    * Podziału majątku <i class="fa fa-balance-scale"></i>
+    * Transakcji kupna-sprzedaży <i class="fa fa-handshake"></i>
+    * Zabezpieczenia wierzytelności <i class="fa fa-lock"></i>
+    * Odszkodowania za inwestycje liniowe <i class="fa fa-money-bill-alt "></i>
+* Operaty szacunkowe <i class="fa fa-calculator"></i>
+* Opinie i ekspertyzy <i class="fa fa-lightbulb"></i>
 
 **Gwarantuję:**
 
@@ -53,7 +53,7 @@ Nazywam się Piotr Stępień i jestem rzeczoznawcą majątkowym z wieloletnim do
 
 **Przydatne strony internetowe:**
 
-* Strona internetowa Stowarzyszenia Rzeczoznawców Majątkowych: [https://www.wsrm.waw.pl/en/](http://www.srm.com.pl/)
+* Warszawskie Stowarzyszenia Rzeczoznawców Majątkowych: [https://www.wsrm.waw.pl/en/](http://www.srm.com.pl/)
 * Ministerstwo Rozwoju, Pracy i Technologii: [https://www.gov.pl/web/rozwoj-technologia](https://www.gov.pl/web/rozwoj-technologia)
 
 
