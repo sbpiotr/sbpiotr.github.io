@@ -6,9 +6,11 @@ about:
   template: trestles
   image-shape: round
   image-width: 20em
-links:
+  links:
     - text: Email
       href: mailto:ps@syndyko.pl
+    - text: Telefon
+      href: tel:509997735
 ---
 
 ## Piotr Stępień - Rzeczoznawca Majątkowy
