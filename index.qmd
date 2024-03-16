@@ -13,6 +13,8 @@ about:
       href: tel:+48509997735
 ---
 
+<link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
+
 ## Piotr Stępień - Rzeczoznawca Majątkowy
 
 **Doświadczenie i rzetelność w wycenie nieruchomości**
